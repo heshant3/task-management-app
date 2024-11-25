@@ -11,6 +11,8 @@ A responsive task management dashboard built with React and styled-components. T
 
 ## Project Structure
 
+https://github.com/heshant3/task-management-app/blob/ade37590a9d827383fa97c6b6479232b730e0356/Screenshot%202024-11-25%20at%2013.07.47.png
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
