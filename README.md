@@ -1,3 +1,16 @@
+# Task Management Dashboard
+
+A responsive task management dashboard built with React and styled-components. This project allows users to organize tasks into categories such as "Todo," "In Progress," and "Completed." Each task has metadata like priority, status, and due dates.
+
+## Features
+
+- **Dynamic Task Columns**: Organize tasks into Todo, In Progress, and Completed sections.
+- **Reusable Components**: Modular and reusable React components.
+- **Styled Components**: Custom styling using styled-components for seamless design integration.
+- **Responsive Design**: Fully responsive for desktop and mobile devices.
+
+## Project Structure
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
